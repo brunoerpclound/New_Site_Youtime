@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.ssr/
+output/
+.env*
+!.env.example
+.playwright-cli/
+export/
+
+data/
+
+backups/
+*.log

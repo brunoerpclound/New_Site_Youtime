@@ -1,0 +1,252 @@
+{
+  "version": 1,
+  "revision": 1,
+  "updatedAt": "2026-11-01T12:00:00.000Z",
+  "brand": {
+    "name": "Youtime Soluções Tecnológicas",
+    "logo": "/brand/logo-web.webp",
+    "primary": "#7B1FA2",
+    "secondary": "#E91E63",
+    "accent": "#FF9800",
+    "domain": "www.youtime.com.br",
+    "domainExpiresAt": "",
+    "phone": "+55 11 98827-8099",
+    "location": "São Paulo, SP"
+  },
+  "seo": {
+    "title": "Youtime | Sistemas, Sites e E-commerce em São Paulo",
+    "description": "Há 15 anos, a Youtime Soluções Tecnológicas, em São Paulo, desenvolve sistemas personalizados, sites e e-commerce e oferece consultoria para PMEs. Conheça soluções para integrar processos, ganhar eficiência e apoiar suas vendas. Converse sobre seu projeto pelo WhatsApp.",
+    "keywords": "sistemas personalizados, desenvolvimento de sistemas em São Paulo, criação de sites, e-commerce, consultoria em tecnologia, automação de processos, integração de sistemas, Youtime",
+    "canonical": "https://www.youtime.com.br"
+  },
+  "geo": {
+    "web2agent": true,
+    "llms": true
+  },
+  "scripts": {
+    "enabled": false,
+    "head": "",
+    "body": ""
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "eyebrow": "15 anos conectando tecnologia e negócios",
+      "title": "Menos retrabalho.",
+      "highlight": "Mais espaço para crescer.",
+      "description": "Sistemas personalizados, sites e e-commerce para transformar a sua operação. Tecnologia pensada para o seu negócio, do primeiro desafio ao próximo passo.",
+      "primaryCta": "Vamos criar seu projeto",
+      "secondaryCta": "Explore nossas soluções",
+      "note": "Seu próximo passo começa com uma boa conversa."
+    },
+    "services": {
+      "enabled": true,
+      "eyebrow": "SOLUÇÕES QUE FAZEM SENTIDO",
+      "title": "Sua próxima fase começa com a tecnologia certa.",
+      "description": "Do sistema que organiza a operação ao site que abre novas portas. Conectamos o que sua empresa precisa para seguir em frente.",
+      "items": [
+        {
+          "title": "Sistemas personalizados",
+          "description": "Sua operação tem um jeito próprio de funcionar. Seu sistema também deve ter. Organize informações, automatize tarefas e conecte processos.",
+          "tag": "FEITO PARA O SEU NEGÓCIO",
+          "features": [
+            "Automação de processos",
+            "Painéis de gestão",
+            "Integrações sob medida"
+          ]
+        },
+        {
+          "title": "Sites que aproximam",
+          "description": "Uma presença digital à altura da sua empresa. Sites rápidos, responsivos e com caminhos claros para transformar visitas em conversas.",
+          "tag": "PRESENÇA DIGITAL",
+          "features": [
+            "Design responsivo",
+            "Estrutura para SEO",
+            "Foco em conversão"
+          ]
+        },
+        {
+          "title": "E-commerce para evoluir",
+          "description": "Do catálogo ao pedido, uma experiência de compra que faz sentido para o cliente e uma operação pensada para quem vende.",
+          "tag": "NOVOS CAMINHOS PARA VENDER",
+          "features": [
+            "Catálogo organizado",
+            "Jornada de compra intuitiva",
+            "Pagamentos e frete sob análise"
+          ]
+        },
+        {
+          "title": "Consultoria de tecnologia",
+          "description": "Mais clareza antes de investir. Identificamos gargalos, avaliamos ferramentas e ajudamos você a escolher o próximo passo.",
+          "tag": "DECISÕES COM DIREÇÃO",
+          "features": [
+            "Diagnóstico de processos",
+            "Plano de evolução",
+            "Avaliação de integrações"
+          ]
+        }
+      ]
+    },
+    "benefits": {
+      "enabled": true,
+      "eyebrow": "TECNOLOGIA COM PROPÓSITO",
+      "title": "Tudo conectado. Sua empresa no controle.",
+      "description": "Menos tempo entre ferramentas. Mais clareza para decidir. Construímos soluções que acompanham a sua rotina e conversam com o que você já utiliza.",
+      "items": [
+        {
+          "title": "Menos tarefas repetidas",
+          "description": "Automatize o que faz sentido e libere sua equipe para o que exige atenção."
+        },
+        {
+          "title": "Informações mais conectadas",
+          "description": "Aproxime áreas e processos para reduzir a transferência manual de dados."
+        },
+        {
+          "title": "Mais clareza para decidir",
+          "description": "Transforme informações dispersas em uma visão organizada da operação."
+        }
+      ],
+      "note": "Integrações avaliadas conforme os recursos e as APIs de cada ferramenta."
+    },
+    "process": {
+      "enabled": true,
+      "eyebrow": "COMO TRABALHAMOS",
+      "title": "Uma boa parceria começa com clareza.",
+      "description": "Você acompanha o caminho. Nós cuidamos de transformar o desafio em uma solução prática.",
+      "items": [
+        {
+          "title": "Entendemos seu negócio",
+          "description": "Ouvimos seus objetivos, conhecemos os processos e identificamos o que precisa melhorar."
+        },
+        {
+          "title": "Desenhamos o caminho",
+          "description": "Alinhamos escopo, integrações, investimento e cronograma antes de desenvolver."
+        },
+        {
+          "title": "Construímos juntos",
+          "description": "Desenvolvemos com etapas de validação para conferir funcionalidades e experiência."
+        },
+        {
+          "title": "Preparamos a evolução",
+          "description": "Orientamos a entrega e alinhamos suporte e próximos passos conforme a contratação."
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "eyebrow": "PRAZER, SOMOS A YOUTIME",
+      "title": "Tecnologia é sobre pessoas. E os negócios que elas movem.",
+      "description": "Há 15 anos, a Youtime Soluções Tecnológicas transforma necessidades de empresas em soluções práticas. De São Paulo, conectamos visão de negócio, desenvolvimento e proximidade em cada projeto.",
+      "secondParagraph": "Antes do código, vem a conversa. Entendemos sua operação e seus objetivos para construir algo que faça sentido para a gestão, para a equipe e para o cliente.",
+      "image": "/images/team-youtime.webp",
+      "imageAlt": "Imagem ilustrativa de profissionais colaborando no planejamento de um projeto",
+      "cta": "Conheça nossa forma de trabalhar"
+    },
+    "testimonials": {
+      "enabled": true,
+      "eyebrow": "RELAÇÕES QUE CONSTROEM",
+      "title": "O resultado começa com uma boa parceria.",
+      "description": "Prévia de depoimentos — textos ilustrativos para avaliação do layout.",
+      "items": [
+        {
+          "quote": "Nossa prioridade era organizar a operação sem complicar a rotina da equipe. A proposta considerou como trabalhamos e o que precisava melhorar primeiro.",
+          "name": "Gestor de operações",
+          "role": "Empresa de serviços · perfil fictício"
+        },
+        {
+          "quote": "Queríamos um site que explicasse nossos serviços com clareza. O foco em conteúdo e navegação traduziu o que precisávamos apresentar.",
+          "name": "Gestora comercial",
+          "role": "Pequena empresa · perfil fictício"
+        },
+        {
+          "quote": "Antes de escolher novas ferramentas, precisávamos entender as prioridades. A conversa sobre processos trouxe clareza para planejar o projeto.",
+          "name": "Responsável pela gestão",
+          "role": "Comércio · perfil fictício"
+        }
+      ]
+    },
+    "offers": {
+      "enabled": true,
+      "eyebrow": "SEU NEGÓCIO, SEU MOMENTO",
+      "title": "Um projeto do tamanho do seu próximo passo.",
+      "description": "Sem pacotes que limitam suas ideias. Definimos o escopo de acordo com o que a sua empresa precisa.",
+      "items": [
+        {
+          "title": "Presença digital",
+          "description": "Para apresentar seu negócio e gerar novas conversas.",
+          "features": [
+            "Site institucional responsivo",
+            "Conteúdo e navegação claros",
+            "Estrutura técnica para SEO"
+          ],
+          "cta": "Planejar meu site"
+        },
+        {
+          "title": "Operação inteligente",
+          "description": "Para conectar processos e ganhar eficiência.",
+          "features": [
+            "Sistema personalizado",
+            "Painéis e automações",
+            "Integrações avaliadas no escopo"
+          ],
+          "cta": "Conversar sobre meu sistema"
+        },
+        {
+          "title": "Vendas online",
+          "description": "Para estruturar uma nova experiência de compra.",
+          "features": [
+            "Loja virtual personalizada",
+            "Organização de produtos",
+            "Planejamento de integrações"
+          ],
+          "cta": "Planejar meu e-commerce"
+        }
+      ]
+    },
+    "faq": {
+      "enabled": true,
+      "eyebrow": "VAMOS ESCLARECER",
+      "title": "Boas perguntas. Respostas diretas.",
+      "description": "Não encontrou o que procura? Fale com a gente.",
+      "items": [
+        {
+          "question": "Qual solução faz mais sentido para minha empresa?",
+          "answer": "Depende do desafio. Um sistema personalizado pode organizar processos; um site pode apresentar sua empresa e facilitar contatos; um e-commerce pode estruturar vendas online. Se a prioridade ainda não estiver clara, a consultoria ajuda a avaliar os caminhos."
+        },
+        {
+          "question": "Posso integrar as ferramentas que já utilizo?",
+          "answer": "As possibilidades são avaliadas no planejamento. A integração depende dos recursos, permissões e interfaces disponíveis em cada ferramenta. Viabilidade e escopo são definidos antes do desenvolvimento."
+        },
+        {
+          "question": "Quanto custa e quanto tempo leva um projeto?",
+          "answer": "Investimento e prazo dependem do escopo, das funcionalidades, das integrações e dos materiais necessários. Após entender a demanda, alinhamos uma proposta com entregas e cronograma para você avaliar."
+        },
+        {
+          "question": "Preciso chegar com o projeto completamente definido?",
+          "answer": "Não. Você pode começar apresentando o problema, os processos envolvidos e o que gostaria de melhorar. Essas informações ajudam a organizar as necessidades e definir os próximos passos."
+        },
+        {
+          "question": "A Youtime oferece suporte depois da entrega?",
+          "answer": "As condições de suporte, manutenção e evolução são definidas na proposta e na contratação. Antes de iniciar, alinhamos o que está incluído e como serão tratadas as necessidades após a entrega."
+        },
+        {
+          "question": "Como solicito uma proposta?",
+          "answer": "Fale com a Youtime pelo WhatsApp +55 11 98827-8099. Envie uma breve descrição da empresa, do desafio e da solução que procura. Se houver uma data desejada, inclua essa informação."
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "eyebrow": "O PRÓXIMO PASSO É SEU",
+      "title": "Sua ideia merece sair do papel.",
+      "description": "Conte o que precisa funcionar melhor na sua empresa. Vamos encontrar, juntos, o caminho para transformar isso em realidade.",
+      "cta": "Vamos conversar sobre seu projeto",
+      "note": "São Paulo, SP · Tecnologia com proximidade, há 15 anos."
+    },
+    "footer": {
+      "enabled": true,
+      "description": "Soluções inteligentes, criativas e funcionais para impulsionar o futuro do seu negócio.",
+      "copyright": "Youtime Soluções Tecnológicas. Todos os direitos reservados."
+    }
+  }
+}
